@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: Containerinstance
-platforms: java
-author: yaohaizh
+extensions:
+- services: Containerinstance
+- platforms: java
 ---
 
-## Getting Started with Containerinstance - Manage Container Instance With Azure File Share Mount - in Java ##
+# Getting Started with Containerinstance - Manage Container Instance With Azure File Share Mount - in Java #
 
 
   Azure Container Instance sample for managing container instances with Azure File Share mount.
